@@ -5,4 +5,5 @@ music or watch movies. Millions of individuals across the world now have access 
 The main challenge for users is choosing appropriate music or movies from such a large collection.
       
       
-       To overcome this problem a recommender system is developed. System which makes suggestions that usually filters the given data using multiple methods and suggests the relevant one to the customer's benefit. This recommender system will recommend music and movies to the user based on their mood along with an emoticon symbolizing their mood. 
+       To overcome this problem a recommender system is developed. System which makes suggestions that usually filters the given data using multiple methods and suggests the  
+ relevant one to the customer's benefit. This recommender system will recommend music and movies to the user based on their mood along with an emoticon symbolizing their mood. 
