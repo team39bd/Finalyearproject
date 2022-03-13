@@ -14,8 +14,7 @@ This recommender system will recommend music and movies to the user based on the
 symbolizing their mood. 
 
 ### **The recommendation is done in three ways :**
-
-        * Suggestions based on Machine Learning approach (Content- Based Recommendation technique)
-        * Suggestions based on User’s mood detection Using Face Detection technique
-        * Suggestions based on User’s mood detection using the Conversation of the user with the Chatbot
+   * Suggestions based on Machine Learning approach (Content- Based Recommendation technique)
+   * Suggestions based on User’s mood detection Using Face Detection technique
+   * Suggestions based on User’s mood detection using the Conversation of the user with the Chatbot
 
